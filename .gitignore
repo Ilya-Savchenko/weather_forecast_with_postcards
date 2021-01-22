@@ -1,0 +1,6 @@
+forecast_background.jpg
+forecasts
+WeatherForecast.db
+venv
+__pycache__/
+.idea/
